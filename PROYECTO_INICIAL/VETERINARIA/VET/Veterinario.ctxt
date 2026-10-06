@@ -1,0 +1,9 @@
+#BlueJ class context
+#Mon Oct 05 19:02:35 CST 2026
+comment0.target=Veterinario
+comment1.params=nombre telefono direccion idVeterinario especialidad
+comment1.target=Veterinario(java.lang.String, java.lang.String, java.lang.String, int, java.lang.String)
+comment2.target=void atenderConsulta()
+comment3.target=void diagnosticarMascota()
+comment4.target=void prescribirTratamiento()
+numComments=5

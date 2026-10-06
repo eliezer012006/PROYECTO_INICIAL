@@ -1,0 +1,14 @@
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\obj\Debug\net10.0\VETERINARIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\obj\Debug\net10.0\VETERINARIA.AssemblyInfoInputs.cache
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\obj\Debug\net10.0\VETERINARIA.AssemblyInfo.cs
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\obj\Debug\net10.0\VETERINARIA.csproj.CoreCompileInputs.cache
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\bin\Debug\net10.0\VETERINARIA.exe
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\bin\Debug\net10.0\VETERINARIA.deps.json
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\bin\Debug\net10.0\VETERINARIA.runtimeconfig.json
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\bin\Debug\net10.0\VETERINARIA.dll
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\bin\Debug\net10.0\VETERINARIA.pdb
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\obj\Debug\net10.0\VETERINARIA.dll
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\obj\Debug\net10.0\refint\VETERINARIA.dll
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\obj\Debug\net10.0\VETERINARIA.pdb
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\obj\Debug\net10.0\VETERINARIA.genruntimeconfig.cache
+C:\Users\eliez\OneDrive\Documentos\PROGRA II\PROYECTO_INICIAL\VETERINARIA\obj\Debug\net10.0\ref\VETERINARIA.dll
